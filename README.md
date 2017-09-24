@@ -4,9 +4,11 @@
 
 ## 图像领域
 
+1. [Top-down Neural Attention by Excitation](https://arxiv.org/abs/1608.00507)
+
 
 
 ## 自然语言处理领域
 
-1. **Attention Is All You Need**  2017.06 谷歌发表的工作
+1. [Attention Is All You Need](http://xueshu.baidu.com/s?wd=paperuri%3A%2893f237b1172b174c55f3bdfd91d2f2d2%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&ie=utf-8&sc_us=17823840714974737532)  2017.06 谷歌发表的工作
 
